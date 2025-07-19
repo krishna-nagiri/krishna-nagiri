@@ -31,7 +31,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring)
 ![GIT](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181718?style=flat&logo=github)
 
 ---
 
@@ -55,7 +55,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=krishna-nagiri&theme=onedark&no-frame=true&row=1" />
 
 ---
-
 
 ## 🚀 Featured Projects
 
