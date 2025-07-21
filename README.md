@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic Java developer & open-source contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Student;Java+Developer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Learner;Java+Developer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
