@@ -1,74 +1,106 @@
 <h1 align="center">Hi 👋, I'm Krishna Nagiri</h1>
-<h3 align="center">An enthusiastic Java developer & open-source contributor</h3>
+<h3 align="center">Backend-focused Java Developer | Open-Source Contributor | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Learner;Java+Developer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Learner;Open+Source+Contributor;Problem+Solver;Team+Lead+%7C+Project+Coordinator" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🚀 Currently building **SwiftFood**, a modular Java food delivery app with JSON persistence
-- 🔍 Exploring **Spring Framework**, **Spring Boot**, and **REST APIs** for backend development
-- 🧠 Diving deeper into **Recursion**, **Data Structures**, and **Algorithmic problem solving**
-- 🧪 Contributing beginner-friendly Java algorithms to **open-source**
-- 💬 Ask me about **Java, JSON (GSON/Jackson), Bash scripting, C, Python, or full-stack basics**
+## 👨‍💻 About Me
+
+I am an enthusiastic Java developer with a strong focus on **backend engineering**, **clean architecture**, and **problem solving**. I enjoy building systems that are scalable, modular, and secure.
+
+- 🚀 Currently building **Blind Battles** – an anonymous competitive programming platform backend with secure code execution
+- 🧩 Previously built **SwiftFood**, a modular Java food delivery app with JSON-based persistence
+- 🌱 Learning **Spring Boot**, **REST APIs**, and backend system design
+- 🧠 Strengthening **Data Structures, Algorithms, and Recursion**
+- 🧪 Contributing beginner-friendly Java problems to open source
+- 🧑‍🤝‍🧑 Team Lead at **Infosys Springboard Internship** (Batch of 5 members)
+  - Led Milestone-4 completion
+  - Task delegation, progress tracking, and coordination
+  - Conducted reviews and ensured timely delivery
+- 💬 Ask me about **Java, JSON (Gson/Jackson), Bash, C, Python, or backend basics**
 - 📫 Reach me at: **muralikrishnanagiri12@gmail.com**
-- ⚡ Fun fact: I love solving tricky bugs and writing clean, maintainable code!
 
 ---
-## 🛠️ Languages & Tools
+
+## 🛠️ Skills
 
 ### 🧑‍💻 Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+- **Java** (Primary, backend-focused)
+- C  
+- Python  
+- Bash  
+- HTML, CSS, PHP  
 
-### 🔧 Tools & Frameworks
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring)
-![GIT](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![GitHub](https://img.shields.io/badge/-GitHub-181718?style=flat&logo=github)
+### 🔧 Frameworks & Libraries
+- Spring (Learning)
+- Spring Boot (Learning)
+- Gson, Jackson (JSON handling)
 
----
+### 🗄️ Databases & DevOps
+- PostgreSQL (Learning)
+- Docker (Learning containerization & isolation concepts)
+- XAMPP
+- Postman (API Testing)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=krishna-nagiri&show_icons=true&theme=tokyonight" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com?user=krishna-nagiri&theme=tokyonight" /></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-nagiri&layout=compact&theme=tokyonight" /></td>
-    </tr>
-  </table>
-</div>
-
----
-## Trophies (Achievement Badges)
-
-<img src="https://github-profile-trophy.vercel.app/?username=krishna-nagiri&theme=onedark&no-frame=true&row=1" />
+### 🧰 Tools
+- Git & GitHub  
+- VS Code, STS, Eclipse  
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/krishna-nagiri/ABC_BANK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna-nagiri&repo=ABC_BANK&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/krishna-nagiri/SwiftFoodApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna-nagiri&repo=SwiftFoodApp&theme=tokyonight" />
-  </a>
-</p>
+### 🥇 Blind Battles – Anonymous Competitive Programming Platform (v1)
+
+Enterprise-style backend system for conducting **anonymous coding battles** with secure code execution.
+
+**Key Features:**
+- Spring Boot backend
+- JWT-based authentication & role-based access (`STUDENT`, `ORGANIZER`, `ADMIN`)
+- Docker-based sandboxed judge engine (Java supported in v1)
+- PostgreSQL persistence
+- Verdict system: AC, WA, TLE, MLE, RE
+- Designed for future scalability and extensions
+
+**Planned Features (v2+):**
+- Multi-language support
+- Real-time battles
+- Leaderboards
+- Plagiarism detection
+- Distributed judge workers
+
+🔗 Repo: *(https://github.com/krishna-nagiri/BlindBattles)*
 
 ---
-## 📫 Connect with me
+
+### 🍔 SwiftFood – Modular Java Food Delivery App
+
+A modular Java application focused on clean OOP design and lightweight persistence.
+
+- Restaurant, menu, user, and order modules
+- JSON-based file persistence
+- Strong separation of concerns
+
+🔗 Repo: https://github.com/krishna-nagiri/SwiftFoodApp
+
+---
+
+### 🏦 ABC_BANK – Java Console Banking System
+
+A simple banking system to practice OOP and core business logic.
+
+- Account creation
+- Deposit, withdrawal, transfer
+- Modular design
+
+🔗 Repo: https://github.com/krishna-nagiri/ABC_BANK
+
+---
+
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/krishna-n-133a23213/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/krishna-nagiri)
