@@ -16,11 +16,7 @@ I am an enthusiastic Java developer with a strong focus on **backend engineering
 - 🌱 Learning **Spring Boot**, **REST APIs**, and backend system design
 - 🧠 Strengthening **Data Structures, Algorithms, and Recursion**
 - 🧪 Contributing beginner-friendly Java problems to open source
-- 🧑‍🤝‍🧑 Team Lead at **Infosys Springboard Internship** (Batch of 5 members)
-  - Led Milestone-4 completion
-  - Task delegation, progress tracking, and coordination
-  - Conducted reviews and ensured timely delivery
-- 💬 Ask me about **Java, JSON (Gson/Jackson), Bash, C, Python, or backend basics**
+- 💬 Ask me about **SpringBoot,System Design, Java, JSON (Gson/Jackson), Bash, C, Python, or backend basics**
 - 📫 Reach me at: **muralikrishnanagiri12@gmail.com**
 
 ---
