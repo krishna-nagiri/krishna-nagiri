@@ -36,8 +36,8 @@ I am an enthusiastic Java developer with a strong focus on **backend engineering
 - Gson, Jackson (JSON handling)
 
 ### 🗄️ Databases & DevOps
-- PostgreSQL (Learning)
-- Docker (Learning containerization & isolation concepts)
+- PostgreSQL
+- Docker
 - XAMPP
 - Postman (API Testing)
 
